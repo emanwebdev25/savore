@@ -25,7 +25,7 @@ function Home() {
             <section className="intro-section">
                 <div className="intro-image">
                     <img
-                        src="/assets/optimized/04-chicken-biryani.jpg"
+                       src="/optimized/04-chicken-biryani.jpg"
                         alt="Savoré signature dish"
                     />
                 </div>
@@ -81,7 +81,7 @@ function Home() {
                 <div className="featured-grid">
                     <div className="featured-card">
                         <img
-                            src="/assets/optimized/01-chicken-karahi.jpg"
+                            src="/optimized/01-chicken-karahi.jpg"
                             alt="Chicken Karahi"
                         />
                         <div>
@@ -92,7 +92,7 @@ function Home() {
 
                     <div className="featured-card">
                         <img
-                            src="/assets/optimized/13-grilled-beef-steak.jpg"
+                            src="/optimized/13-grilled-beef-steak.jpg"
                             alt="Grilled Beef Steak"
                         />
                         <div>
@@ -103,7 +103,7 @@ function Home() {
 
                     <div className="featured-card">
                         <img
-                            src="/assets/optimized/33-molten-lava-cake.jpg"
+                            src="/optimized/33-molten-lava-cake.jpg"
                             alt="Molten Lava Cake"
                         />
                         <div>

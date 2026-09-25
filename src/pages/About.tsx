@@ -10,7 +10,7 @@ function About() {
       <section className="about-story">
         <div className="about-story-image">
           <img
-           src="/assets/optimized/04-chicken-biryani.jpg"
+           src="/optimized/04-chicken-biryani.jpg"
             alt="Savoré signature dish"
           />
         </div>
@@ -54,7 +54,7 @@ function About() {
 
           <div className="about-chef-image">
             <img
-              src="/assets/optimized/13-grilled-beef-steak.jpg" 
+              src="/optimized/13-grilled-beef-steak.jpg"
               alt="Savoré signature dish"
             />
           </div>
