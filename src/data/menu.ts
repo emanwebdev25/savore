@@ -4,7 +4,7 @@ export type MenuItem = {
   price: number
   image: string
 }
-const imagePath = "/src/assets/optimized/"
+const imagePath = "/optimized/"
 export const menuItems: MenuItem[] = [
   {
     name: "Chicken Karahi",
