@@ -1,5 +1,6 @@
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
+import { Link } from "react-router-dom";
 function Home() {
     return (
         <main>
@@ -14,8 +15,8 @@ function Home() {
                     </span>
 
                     <div className="hero-buttons">
-                        <a href="/menu">Explore Menu</a>
-                        <a href="/reservation">Reserve a Table</a>
+                        <Link to="/menu">Explore Menu</Link>
+                        <Link to="/reservation">Reserve a Table</Link>
                     </div>
                 </div>
             </section>
@@ -25,7 +26,7 @@ function Home() {
             <section className="intro-section">
                 <div className="intro-image">
                     <img
-                       src="/optimized/04-chicken-biryani.jpg"
+                        src="/optimized/04-chicken-biryani.jpg"
                         alt="Savoré signature dish"
                     />
                 </div>
