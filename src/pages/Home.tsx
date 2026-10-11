@@ -115,7 +115,7 @@ function Home() {
                 </div>
                 <div className="featured-bottom">
                     <span>DISCOVER THE COMPLETE MENU</span>
-                    <a href="/menu">View Menu</a>
+                    <Link to="/menu">View Menu</Link>
                 </div>
             </section>
             <Footer />
